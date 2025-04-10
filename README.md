@@ -23,4 +23,3 @@ I found these websites helpful with learning javascript.
 
 - I need to make it possible to organize the tasks, such as alphabetically.
 - I need to make a way to search for specific tasks in the list.
-- I need a way to make it so that I can make completed items uncompleted without deleting them and re-entering them.
